@@ -13,6 +13,7 @@ export default defineConfig({
         text: "Examples",
         items: [
           { text: "网站部署", link: "/markdown-examples" },
+          { text: "Vue3依赖包", link: "/vue3-package" },
           { text: "Runtime API Examples", link: "/api-examples" },
         ],
       },
