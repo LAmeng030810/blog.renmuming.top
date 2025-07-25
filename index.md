@@ -3,23 +3,19 @@
 layout: home
 
 hero:
-  name: "任沐铭的博客"
-  text: "部署网站"
-  tagline: 曲径通幽处，禅房花木深。
+  name: "TypeScript笔记"
+  text: "任沐铭"
+  tagline: 一个 Rookie Coders 的小笔记。
   actions:
     - theme: brand  # 颜色
-      text: 开始  # 名称
+      text: 开始阅读  # 名称
       link: /markdown-examples  # 路由
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: GitHub
+      link: "https://github.com/LAmeng030810/blog.renmuming.top"
 
 features:
   - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
