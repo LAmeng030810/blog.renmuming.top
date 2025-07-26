@@ -19,6 +19,7 @@ export default defineConfig({
       {
         text: "TypeScript笔记",
         items: [
+          { text: "类型系统", link: "/docs/TypeScript/type-system.md" },
           { text: "tsconfig.json", link: "/docs/TypeScript/tsconfig.md" },
         ],
       },
