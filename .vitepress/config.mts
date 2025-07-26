@@ -11,7 +11,10 @@ export default defineConfig({
     sidebar: [
       {
         text: "网站部署",
-        items: [{ text: "网站部署", link: "/markdown-examples" }],
+        items: [
+          { text: "网站部署", link: "/markdown-examples" },
+          { text: "Vue3依赖包", link: "/vue3-package" },
+        ],
       },
       {
         text: "TypeScript笔记",
